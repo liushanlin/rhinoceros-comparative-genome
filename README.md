@@ -1,1 +1,5 @@
 # rhinoceros-comparative-genome
+
+It contains all the important scripts used for a comparative genome study of the rhinceros species, including all the five extant rhinoceros species and three extinct rhinocerso species.
+
+The scripts were utilized to extract genome alingment information from MAF files. For instance, it tries to add mapping-based consensus sequences (obtained from ANGSD -doFast function using a bam file) to the multiple sequence alignment (MSA) file that contains its references; it also tries to obtain CDS and amino acid sequences from MAF files according to the genome refence's annotation information (GFF file). 
