@@ -19,3 +19,6 @@ It takes inputs of log files generated from exonerate and the corresponding nucl
 ## genelocationMaf2cds.pl
 >
 It reads gene annotation information (e.g., gene location and exon location information) and the genome alignment file (in format of MAF), and outputs amino acid sequences that located in the genome alignment region.
+## exonerateFrameShiftPos.pl
+>
+It reads exonerate log file, the gene alignment file (maf file) and finds frameshift mutations shared between different species, and outputs their location information
