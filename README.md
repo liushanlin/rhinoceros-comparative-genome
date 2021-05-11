@@ -15,3 +15,7 @@ It reads whole genome alignments (file in MAF format generated using multiZ) and
 ## exonerate2coordinate.pl
 >
 It takes inputs of log files generated from exonerate and the corresponding nucleodtie fasta files, and output the amino acid sequuences and cds identified by exonerate. In addition, it calculates the p-distance between identified exons and the reference exons and finds the best hits, which can be used for the following exon based sequence alignment.
+
+## genelocationMaf2cds.pl
+>
+It reads gene annotation information (e.g., gene location and exon location information) and the genome alignment file (in format of MAF), and outputs amino acid sequences that located in the genome alignment region.
