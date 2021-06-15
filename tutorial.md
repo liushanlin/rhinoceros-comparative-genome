@@ -40,6 +40,9 @@ sh genomeAlignSynteny.sh sumatran.maf Equu.size sumatranPsmcRef.size Equu.2bit s
 ## run raxml to infer gene trees and then obtain the species tree using Astral
 
 
+
+
+
 # obtan orthologs from the genome alignment
 
 ## splite mafs according the gene location 
@@ -49,6 +52,9 @@ sh genomeAlignSynteny.sh sumatran.maf Equu.size sumatranPsmcRef.size Equu.2bit s
 ## get fasta for all the targeted species and query species saperately
 
     perl maf2msa.pl sp.table list.maf
+
+> sp table includes three columns: species name, reference used for mapping (identical to first column if a de novo genome), genome sequences in fasta format
+
 
 ## exonerate 
 
