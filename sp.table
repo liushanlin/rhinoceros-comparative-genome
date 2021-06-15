@@ -1,0 +1,10 @@
+Equu    Equu    /groups/hologenomics/shanlin/data/rhinos/ref_horse/GCF_000002305.2_EquCab2.0_genomic.fna
+cerSim  cerSim  /groups/hologenomics/shanlin/data/rhinos/ref_CerSim/cerSim1.fa
+blackRhino      blackRhino      /groups/hologenomics/shanlin/data/rhinos/ref_black_rhino/assembly/black_rhino_19Dec2016_S9zPn.fasta
+Sumatran        Sumatran        /groups/hologenomics/shanlin/data/rhinos/ref_sumatran_rhino/psmc/sumatranPsmcRef.fasta
+indianRhino     indianRhino     /groups/hologenomics/shanlin/data/rhinos/ref_indian_rihno/psmc/indianPsmcRef.fasta
+Tapirs  Tapirs  /groups/hologenomics/shanlin/rhinos/tapirs/tapirB500.fasta
+javan   indianRhino     /lustre/hpc/hologenomics/shanlin/rhinos/consensus/javan/javanIndianMem.fa
+stephan Sumatran        /lustre/hpc/hologenomics/shanlin/rhinos/consensus/stephan/stephSumatranMem.fa
+woolly  Sumatran        /lustre/hpc/hologenomics/shanlin/rhinos/consensus/woolly/woollySumatranMem.fa
+Elasmotherium   cerSim  /groups/hologenomics/shanlin/rhinos/consensus/Elasmotherium/elasmCersimMem.fa
