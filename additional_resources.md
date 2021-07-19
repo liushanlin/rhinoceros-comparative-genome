@@ -32,6 +32,17 @@ By conducting pairwise genome alignment between each de novo assembled rhinocero
 
 ---
 
+**Demographic estimation using different parameters**
+As a comparison, and due to the uncertainty of μ and g for the three extinct rhinoceros species, we also estimated changes in Ne using shorter generation times (i.e., 10) and different substitution rates (i.e., 1.2 x 10-8 (Goto et al., 2011) and 3.3 x 10-8 (Orlando et al., 2013)) (Figure 6).
+
+<br/><br/>
+![Figure 6]()
+
+**Figure 6. Past demographic trajectory for the three extinct rhinoceros species.** Each curve represents a different species and each panel represents different substitution rates (substitutions/site/generation, μ) and generation times (g).
+
+
+---
+
 > **Reference**
 
 > Antoine, P.-O., Reyes, M.C., Amano, N., Claude, J., Bautista, A.P., Vos, J.d., and Ingicco, T. (2021). A new clade of rhinoceroses from the Pleistocene of Asia sheds light on mainland mammal dispersals to the Philippines. Zoological Journal of the Linnean Society, Advance online. https://doi.org/10.1093/zoolinnean/zlab009 <br/><br/>
