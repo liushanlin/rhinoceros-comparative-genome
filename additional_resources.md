@@ -1,4 +1,4 @@
-**DNA sequence read of the historic/ancient samples**
+# **DNA sequence read of the historic/ancient samples**
 
 The sequencing reads obtained for the four historic and ancient samples exhibited a length distribution as expected for ancient (a)DNA – concentrated around 50–60 bp (Poinar et al., 2006) (Figure 1), and all but the Siberian unicorn (~9✕) have genome-wide coverage > 10✕ (Figure 2). Furthermore, different libraries built for Javan rhinoceros generated reads of length on par with each other (Figure 3A), while the two DNA extracts and sequencing libraries of Merck’s rhinoceros produced different read length distribution patterns with the one sequenced using BGISeq platform containing more long reads (Figure 3B). However, we noted that the sequencing library for the BGISeq platform had an extremely high clonality level - reaching 97%, therefore, contributing little to the final genome coverage and we removed it from the following analyses. We further examined the consistency between the two sequence strategies (PE100 and PE50) for the woolly rhinoceros, and showed that both allow reliable SNP inference, and neither exhibit conflicts derived from systematic bias (Figure 4). Our analysis also showed that data with lower depth (library I) identified fewer variances as expected (Figure 4A), and ca. 1/3 of those incongruent variances that identified in library I were homozygous (Figure 4B) and those homozygous sites (incongruent between the two) could result from insufficient sequence depth (Figure 4C). Thus, we merged the two alignments for the following analyses.
 
@@ -22,7 +22,7 @@ The sequencing reads obtained for the four historic and ancient samples exhibite
 
 
 
-**Genome synteny and collinearity**
+# **Genome synteny and collinearity**
 
 By conducting pairwise genome alignment between each de novo assembled rhinoceros genome and that of horse (Equus caballus), we did not detect any major within-scaffold segment reshuffling between the rhinoceros species, as well as for that between rhinoceroses and the horse. We then applied Circos (Krzywinski et al., 2009) to visualise the genome synteny and collinearity (Figure 5). The good within-scaffold collinearity between rhinoceros species to some extent guarantees the reliability and accuracy of the reference-based analyses for those historic and ancient samples.
 
@@ -32,7 +32,7 @@ By conducting pairwise genome alignment between each de novo assembled rhinocero
 
 ---
 
-**Demographic estimation using different parameters**
+# **Demographic estimation using different parameters**
 As a comparison, and due to the uncertainty of μ and g for the three extinct rhinoceros species, we also estimated changes in Ne using shorter generation times (i.e., 10) and different substitution rates (i.e., 1.2 x 10-8 (Goto et al., 2011) and 3.3 x 10-8 (Orlando et al., 2013)) (Figure 6).
 
 <br/><br/>
@@ -43,7 +43,7 @@ As a comparison, and due to the uncertainty of μ and g for the three extinct rh
 
 ---
 
-> **Reference**
+# **Reference**
 
 > Antoine, P.-O., Reyes, M.C., Amano, N., Claude, J., Bautista, A.P., Vos, J.d., and Ingicco, T. (2021). A new clade of rhinoceroses from the Pleistocene of Asia sheds light on mainland mammal dispersals to the Philippines. Zoological Journal of the Linnean Society, Advance online. https://doi.org/10.1093/zoolinnean/zlab009 <br/><br/>
 > Goto, H., Ryder, O.A., Fisher, A.R., Schultz, B., Kosakovsky Pond, S.L., Nekrutenko, A., and Makova, K.D. (2011). A massively parallel sequencing approach uncovers ancient origins and high genetic variability of endangered Przewalski's horses. Genome Biology and Evolution 3, 1096-1106.<br/><br/>
