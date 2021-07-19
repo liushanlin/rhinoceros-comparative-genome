@@ -36,7 +36,7 @@ By conducting pairwise genome alignment between each de novo assembled rhinocero
 As a comparison, and due to the uncertainty of μ and g for the three extinct rhinoceros species, we also estimated changes in Ne using shorter generation times (i.e., 10) and different substitution rates (i.e., 1.2 x 10-8 (Goto et al., 2011) and 3.3 x 10-8 (Orlando et al., 2013)) (Figure 6).
 
 <br/><br/>
-![Figure 6]()
+![Figure 6](https://github.com/liushanlin/rhinoceros-comparative-genome/blob/main/additional%20resources/difPara.png)
 
 **Figure 6. Past demographic trajectory for the three extinct rhinoceros species.** Each curve represents a different species and each panel represents different substitution rates (substitutions/site/generation, μ) and generation times (g).
 
@@ -46,8 +46,9 @@ As a comparison, and due to the uncertainty of μ and g for the three extinct rh
 > **Reference**
 
 > Antoine, P.-O., Reyes, M.C., Amano, N., Claude, J., Bautista, A.P., Vos, J.d., and Ingicco, T. (2021). A new clade of rhinoceroses from the Pleistocene of Asia sheds light on mainland mammal dispersals to the Philippines. Zoological Journal of the Linnean Society, Advance online. https://doi.org/10.1093/zoolinnean/zlab009 <br/><br/>
-> Margaryan, A., Sinding, M.S., Liu, S., Vieira, F.G., Chan, Y.L., Nathan, S.K.S.S., Moodley, Y., Bruford, M.W., and Gilbert, M.T.P. (2020). Recent mitochondrial lineage extinction in the critically endangered Javan rhinoceros. Zoological Journal of the Linnean Society. 190, 372–383.<br/><br/>
+> Goto, H., Ryder, O.A., Fisher, A.R., Schultz, B., Kosakovsky Pond, S.L., Nekrutenko, A., and Makova, K.D. (2011). A massively parallel sequencing approach uncovers ancient origins and high genetic variability of endangered Przewalski's horses. Genome Biology and Evolution 3, 1096-1106.<br/><br/>
 > Kirillova, I.V., Chernova, O.F., Der Made, J.V., Kukarskih, V.V., Shapiro, B., Der Plicht, J.V., Shidlovskiy, F.K., Heintzmann, P.D., Van Kolfschoten, T., and Zanina, O.G. (2017). Discovery of the skull of Stephanorhinus kirchbergensis (Jäger, 1839) above the Arctic Circle. Quaternary Research 88, 537-550.<br/><br/>
 > Krzywinski, M., Schein, J., Birol, I., Connors, J., Gascoyne, R., Horsman, D., Jones, S.J., and Marra, M.A. (2009). Circos: an information aesthetic for comparative genomics. Genome Res 19, 1639-1645.<br/><br/>
+> Margaryan, A., Sinding, M.S., Liu, S., Vieira, F.G., Chan, Y.L., Nathan, S.K.S.S., Moodley, Y., Bruford, M.W., and Gilbert, M.T.P. (2020). Recent mitochondrial lineage extinction in the critically endangered Javan rhinoceros. Zoological Journal of the Linnean Society. 190, 372–383.<br/><br/>
+> Orlando, L., Ginolhac, A., Zhang, G., Froese, D., Albrechtsen, A., Stiller, M., Schubert, M., Cappellini, E., Petersen, B., and Moltke, I. (2013). Recalibrating Equus evolution using the genome sequence of an early Middle Pleistocene horse. Nature 499, 74-78.<br/><br/>
 > Poinar, H.N., Schwarz, C., Qi, J., Shapiro, B., MacPhee, R.D.E., Buigues, B., Tikhonov, A., Huson, D.H., Tomsho, L.P., Auch, A., et al. (2006). Metagenomics to paleogenomics: large-scale sequencing of mammoth DNA. Science 311, 392-394.
-> 
