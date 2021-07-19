@@ -3,19 +3,19 @@
 The sequencing reads obtained for the four historic and ancient samples exhibited a length distribution as expected for ancient (a)DNA – concentrated around 50–60 bp (Poinar et al., 2006) (Figure 1), and all but the Siberian unicorn (~9✕) have genome-wide coverage > 10✕ (Figure 2). Furthermore, different libraries built for Javan rhinoceros generated reads of length on par with each other (Figure 3A), while the two DNA extracts and sequencing libraries of Merck’s rhinoceros produced different read length distribution patterns with the one sequenced using BGISeq platform containing more long reads (Figure 3B). However, we noted that the sequencing library for the BGISeq platform had an extremely high clonality level - reaching 97%, therefore, contributing little to the final genome coverage and we removed it from the following analyses. We further examined the consistency between the two sequence strategies (PE100 and PE50) for the woolly rhinoceros, and showed that both allow reliable SNP inference, and neither exhibit conflicts derived from systematic bias (Figure 4). Our analysis also showed that data with lower depth (library I) identified fewer variances as expected (Figure 4A), and ca. 1/3 of those incongruent variances that identified in library I were homozygous (Figure 4B) and those homozygous sites (incongruent between the two) could result from insufficient sequence depth (Figure 4C). Thus, we merged the two alignments for the following analyses.
 
 
-![Figure 1] (https://github.com/liushanlin/rhinoceros-comparative-genome/blob/main/additional%20resources/readLengthDistributionAll.png)
+![Figure 1](https://github.com/liushanlin/rhinoceros-comparative-genome/blob/main/additional%20resources/readLengthDistributionAll.png)
 
 **Figure 1 Read length distribution for the three extinct rhinoceros and the historic Javan rhinoceros sample.** Note: The current plot was estimated using one million randomly chosen reads from their raw data. Both the Merck’s rhinoceros and the Siberian unicorn data was generated using the Illumina sequencing platform, while the Javan and woolly rhinoceros data was sequenced using the BGISeq platform.
 
-![Figure 2] ()
+![Figure 2](https://github.com/liushanlin/rhinoceros-comparative-genome/blob/main/additional%20resources/depth.ancient.png)
 
 **Figure 2 Genome coverage for the historical and ancient samples.** Y-axes represent the proportion of the genome covered by any size fraction. Depth distribution was calculated using one million randomly-selected sites. Panel B shows a depth distribution of the Javan rhinoceros with the right plot representing a duplication removal strategy where all libraries were merged together before duplication removal. HQ includes only the reads with mapping quality ≥ 10.
 
-![Figure 3] (https://github.com/liushanlin/rhinoceros-comparative-genome/blob/main/additional%20resources/lengthJavanStepPlain.png)
+![Figure 3](https://github.com/liushanlin/rhinoceros-comparative-genome/blob/main/additional%20resources/lengthJavanStepPlain.png)
 
 **Figure 3 Read length distribution of Javan (A) and Merck’s rhinoceros (B) sequences for which we built more than two libraries that were sequenced independently.** The middle panel shows a length distribution for which we binned the reads of length > 100 bp for the Illumina sequencing platform for a sake of fair comparison. We randomly chose two libraries out of the total 12 libraries built for Javan rhinoceros.
 
-![Figure 4] (https://github.com/liushanlin/rhinoceros-comparative-genome/blob/main/additional%20resources/woollyDiffLib.png)
+![Figure 4](https://github.com/liushanlin/rhinoceros-comparative-genome/blob/main/additional%20resources/woollyDiffLib.png)
 
 **Figure 4 Genomic variants identified using the two sequencing strategies (library I of PE100 and library II of PE50) for woolly rhinoceros.** A: Venn plot showing the proportion of variants obtained using the two different sequencing strategies; B: Proportion of the types (heterozygosity 0/1, labelled as heter, and ancient homozygosity 0/0 labelled as homoAncient) of the incongruent variances (17,217) generated in library I; C: Depth comparison for the different types of variances. nonOverlapHeter means the incongruent variances that were identified as heterozygous variances in library I, and nonOverlapHomo means those that were identifed as homozygous variances in library I.
 
